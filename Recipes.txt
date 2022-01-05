@@ -4,3 +4,5 @@ Kheer
 Pasta
 Chicken Changezi
 Fish Fry
+Pizza
+Macaroni
